@@ -1,5 +1,7 @@
 # Discord-Promo-Gen
 
+![Uploading image.png…]()
+
 Does not use request, opens the site with selenium and does it manually
 
 Save the promotions he receives in the text
