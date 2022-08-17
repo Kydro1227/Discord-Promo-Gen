@@ -1,6 +1,6 @@
 # Discord-Promo-Gen
 
-![Uploading image.png…]()
+https://automized.sellix.io/
 
 Does not use request, opens the site with selenium and does it manually
 
