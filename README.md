@@ -8,7 +8,7 @@ It produces 1 piece in an average of 30 seconds
 
 Tower Of Fantasy Promo Gen
 
-![Alt text](src=google.com https://raw.githubusercontent.com/Kydro1227/Discord-Promo-Gen/main/Promo%20Gen.gif?raw=true)
+![Alt text](google.com https://raw.githubusercontent.com/Kydro1227/Discord-Promo-Gen/main/Promo%20Gen.gif?raw=true)
 <img src='Promo Gen.gif'>
 
 
