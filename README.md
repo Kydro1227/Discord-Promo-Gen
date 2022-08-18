@@ -10,7 +10,7 @@ Tower Of Fantasy Promo Gen
 
 ![alt text](https://raw.githubusercontent.com/Kydro1227/Discord-Promo-Gen/main/Promo%20Gen.gif "https://www.itemsatis.com/profil/49229/kydroexe.html")
 
-<a href="https://www.itemsatis.com/profil/49229/kydroexe.html" target="https://raw.githubusercontent.com/Kydro1227/Discord-Promo-Gen/main/Promo%20Gen.gif "https://www.itemsatis.com/profil/49229/kydroexe.html">
+<a href="https://www.itemsatis.com/profil/49229/kydroexe.html" target="https://raw.githubusercontent.com/Kydro1227/Discord-Promo-Gen/main/Promo%20Gen.gif">
 
 if you want free promotion add me
 
