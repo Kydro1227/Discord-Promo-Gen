@@ -8,7 +8,8 @@ It produces 1 piece in an average of 30 seconds
 
 Tower Of Fantasy Promo Gen
 
-![alt text](src= "https://raw.githubusercontent.com/Kydro1227/Discord-Promo-Gen/main/Promo%20Gen.gif" href="https://www.itemsatis.com/profil/49229/kydroexe.html")
+    <img alt="YAP" src="https://raw.githubusercontent.com/Kydro1227/Discord-Promo-Gen/main/Promo%20Gen.gif" data-canonical-src="http://i.imgur.com/dNYswmI.gif" style="max-width:100%;"></a>
+
 
 
 if you want free promotion add me
