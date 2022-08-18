@@ -8,7 +8,7 @@ It produces 1 piece in an average of 30 seconds
 
 Tower Of Fantasy Promo Gen
 
-[link](google.com)
+![Alt text](Promo Gen.gif?raw=true "Title")
 <img src='Promo Gen.gif'>
 
 
