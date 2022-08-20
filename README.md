@@ -9,4 +9,4 @@ Tower Of Fantasy Promo Gen
 
 1k promo/ 15$
 
-My discord account: Kydro#1227
+My discord account: Kydro#7528
